@@ -42,7 +42,7 @@
 *Game start screen.*
 
 ![Player Move](./assets/screenshots/player-move.png)
-*Player X's turn to make a move.*
+*Player O's turn to make a move.*
 
 ![Game Win](./assets/screenshots/game-win.png)
 *Player X wins the game.*
